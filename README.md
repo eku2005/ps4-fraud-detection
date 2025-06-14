@@ -1,6 +1,8 @@
-# 🔍 FraudDetector  
+# 🔍 FraudDetector
+
 *A comprehensive AI-powered fraud detection system leveraging large language models and network analysis to identify suspicious financial transactions.*
 
+![image](https://github.com/user-attachments/assets/785e0b19-4831-407e-8186-888d7f840de9)
 ---
 
 ## 🧠 Overview  
@@ -18,6 +20,8 @@
 
 - **🔗 Network-based Collusion Detection**  
   Visualizes and identifies potential employee-customer collusion using **network graphs** and circular transaction patterns.
+
+
 
 - **📣 Real-time Slack Alerts**  
   Instantly notify compliance officers and admins for high-risk activity via Slack integrations.
