@@ -150,7 +150,7 @@ class FraudDetectionTools:
         return "Transaction flagged to admin for review."
 
 # Set API key
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "..."
 
 # Step 1: Load previous transactions from SQLite
 conn = sqlite3.connect("transactions.db")
