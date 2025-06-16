@@ -1,7 +1,12 @@
 # 🔍 FraudDetector
 
 *A comprehensive AI-powered fraud detection system leveraging large language models and network analysis to identify suspicious financial transactions.*
+The Fraud Detection system has two parts:-
 
+**1. Transaction Anomaly detector (based on past customer behaviour)**
+![image](https://github.com/user-attachments/assets/cfb8c3de-8c40-4fd1-80a9-a20e1aa2150a)
+
+**2. Collusion detection b/w employee and customers**
 ![image](https://github.com/user-attachments/assets/785e0b19-4831-407e-8186-888d7f840de9)
 ---
 
