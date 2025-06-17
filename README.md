@@ -12,7 +12,7 @@ The Fraud Detection system has two parts:-
 
 ## Demo Video for prototype (Click on the image)
 [![image](https://github.com/user-attachments/assets/2b3e87ed-e18e-4971-a0b0-cc97b0cb2dc4)
-](https://youtu.be/_yN9bs_PHbc)
+](https://youtu.be/_iMgDzHiqHc)
 
 ## 🧠 Overview  
 **FraudDetector** is an intelligent, real-time fraud prevention platform that blends traditional rule-based logic with modern machine learning and LLMs. It not only analyzes transaction patterns and behavior but also identifies complex collusion networks and alerts stakeholders instantly.
