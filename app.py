@@ -83,7 +83,7 @@ if __name__ == '__main__':
     try:
         conn.execute('ALTER TABLE transactions ADD COLUMN status TEXT DEFAULT "normal"')
         conn.execute('ALTER TABLE transactions ADD COLUMN explanation TEXT')
-        conn.commit()
+        conn.commit() 
     except sqlite3.OperationalError:
         # Columns already exist
         pass
