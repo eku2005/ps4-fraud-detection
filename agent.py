@@ -13,6 +13,8 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv()
 
+def empty():
+    pass
 # SlackReporter class for fraud alerts
 class SlackReporter:
     def __init__(self):
